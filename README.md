@@ -30,7 +30,7 @@ A typical workflow in this codebase is:
 2. **Preprocess one participant** with `S2_PreProcessing.m`.
 3. **Reject ICA artifacts and epoch the data** with `S3_Get_all_epoches.m`.
 4. **Compute single-subject tagging coherence** with `Coh_RIFT.m` or `Coh_RIFT_parallel.m`.
-5. **Aggregate subjects at group level** with `Group_Coh.m, `TaggingResponseCurve.m`, or `Group_Coh_parallel.m`.
+5. **Aggregate subjects at group level** with `Group_Coh.m`, `TaggingResponseCurve.m`, or `Group_Coh_parallel.m`.
 6. **Eye movement data analysis and statistical tests** with `Ana_behavioral.m`.
 7. **Relate tagging coherence to reading behavior** with `Corr_Tag_EM.m`.
 8. **Single-trial tagging response** with `Coh_RIFT_parallel_ControlAnalysis.m`
