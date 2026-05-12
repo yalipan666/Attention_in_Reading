@@ -20,6 +20,7 @@ Analysis code for MEG, eye-tracking, behavioural metrics, coherence analysis, gr
 - `OccipSens_full.mat`: a supporting MATLAB file used by the analysis pipeline.
 - `.gitignore`: ignores shared or generated folders.
 - `README.md`: short repository summary on GitHub.
+- `RIFT tutorial.pdf`: short description of the RIFT stimuli presentation and tagging response analysis.
 
 ## Processing and analysis workflow
 
