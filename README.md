@@ -6,7 +6,7 @@ The pre-print manuscript is: https://www.biorxiv.org/content/10.1101/2025.05.27.
 
 The raw datasets associated with this project are: https://figshare.com/projects/Attention_in_Reading/250316
 
-For a brief introduction on how to display a visual stimulus in RIFT and how to analyse tagging response signals, please see the "RIFT_tutorial.pdf" in this repo. 
+For a brief introduction on how to display a visual stimulus in RIFT and how to analyse tagging response signals, please see the ##"RIFT_tutorial.pdf"## in this repo. 
 
 ## Repository structure
 
